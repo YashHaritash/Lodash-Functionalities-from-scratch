@@ -1,5 +1,13 @@
-### as an exercise try to create some function on your own from https://lodash.com/ based on what you learnt
+# Lodash-Inspired Utils
 
-### try creating functions such as compact / difference / intersectionBy / uniq / groupBy / keyBy / debounce /
+## index.js
 
-### throttle or other frequently used ones
+🔹 Practice file to build custom utility functions like `compact`, `difference`, `intersectionBy`, `uniq`, `groupBy`, `keyBy`, `debounce`, `throttle`, and more – inspired by [lodash.com](https://lodash.com/).
+
+## yash.js
+
+🔹 Converted functions into object methods for easy reuse across files via import.
+
+## test.js
+
+🔹 Simple test file to verify each utility method works as expected.
